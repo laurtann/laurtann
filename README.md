@@ -8,4 +8,4 @@ I'm currently a student in Web Development Bootcamp at Lighthouse Labs learning 
 
 When I'm not coding or filming TV shows in tattoo shops (long story), I can usually be found somewhere in nature with my boxer, Clementine.
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/laura-tannahill/) and while you're here check out some of the neat things I'm working on at www.lauratannahill.com
+Connect with me on [LinkedIn](https://www.linkedin.com/in/laura-tannahill/), and while you're here check out some of the neat things I'm working on at www.lauratannahill.com
