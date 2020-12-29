@@ -1,10 +1,10 @@
 ### Why, Hello There!
 
-I'm Laura, a Full-Stack Web Developer based in Halifax, NS. 
+I'm Laura, a Full-Stack JavaScript Developer based in Halifax, NS. 
 
 !["Isn't she cute"](https://github.com/laurtann/laurtann/blob/main/github-clem.png?raw=true)
 
-I'm currently a student in Web Development Bootcamp at Lighthouse Labs learning about all things Javascript & Ruby. 
+I'm currently a student in Web Development Bootcamp at Lighthouse Labs learning about all things JavaScript & Ruby. 
 
 When I'm not coding or filming TV shows in tattoo shops (long story), I can usually be found somewhere in nature with my boxer, Clementine.
 
