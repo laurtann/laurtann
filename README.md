@@ -2,7 +2,7 @@
 
 I'm Laura, a Full-Stack Web Developer based in Halifax, NS. 
 
-!["Isn't she cute"](https://github.com/laurtann/laurtann/blob/main/laura-on-the-commons.jpg =250x250)
+!["Isn't she cute"](https://github.com/laurtann/laurtann/blob/main/laura-and-clem.png?raw=true)
 
 I'm currently student in Lighthouse Labs Web Development Bootcamp learning about all things Javascript & Ruby. 
 
