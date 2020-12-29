@@ -2,6 +2,8 @@
 
 I'm Laura, a Full-Stack Web Developer based in Halifax, NS. 
 
+!["Isn't she cute"](https://github.com/laurtann/laurtann/blob/main/laura-on-the-commons.jpg?raw=true =500x)
+
 I'm currently student in Lighthouse Labs Web Development Bootcamp learning about all things Javascript & Ruby. 
 
 When I'm not coding, travelling or filming TV shows in Tattoo Shops (long story), I can usually be found somewhere in nature with my boxer, Clementine.
