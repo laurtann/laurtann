@@ -1,6 +1,6 @@
 ### Why, Hello There!
 
-I'm Laura, a Full-Stack Developer based in Halifax, NS. 
+I'm Laura, a Software Developer based in Halifax, NS. 
 
 !["Boxer dog and human in front of Halifax Commons fountain"](https://github.com/laurtann/laurtann/blob/main/github-clem.png?raw=true)
 
